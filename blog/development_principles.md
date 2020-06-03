@@ -1,18 +1,25 @@
 # Development Principles
-Borrow code liberally, but understand how and why it does what it does
 
-Never be more than 10 lines of code from being able to execute/test your code
+# Coding
+## Borrow code liberally, but understand how and why it does what it does
 
-Take the time to make executing your code trivial
+## Never be more than 10 lines of code away from being able to execute/test your code
 
-Knowing how to arrive at the answer is sometimes more valuable than knowing the answer itself
+## Take the time to make executing and testing your code trivial
 
-Practice adapting your message to your audience
+## Knowing how to arrive at the answer is sometimes more valuable than knowing the answer itself
 
-Don't underestimate pictures
+## Troubleshooting
+### Learn to isolate the lowest common denominator
 
-Learn to isolate the lowest common denominator
 
-Practice reading unfamiliar code
+## Communication
+### Practice adapting your message to your audience
 
-Look for opportunities to learn a new technology
+### Don't underestimate pictures
+
+
+## Learning/Professional Development
+### Practice reading unfamiliar code
+
+### Look for opportunities to learn a new technology
