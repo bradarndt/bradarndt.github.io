@@ -1,1 +1,2 @@
-[Development Principles](blog/)
+[Blog](blog/)
+[Open Source Contributions](OpenSource.md)
