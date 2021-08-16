@@ -1,1 +1,1 @@
-[Development Principles](blog/development_principles.md)
+[Development Principles](blog/)
