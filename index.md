@@ -1,3 +1,3 @@
 [Blog](blog/)
 
-[Open Source Contributions](bradarndt/OpenSource.md)
+[Open Source Contributions](https://github.com/bradarndt/bradarndt/blob/main/OpenSource.md)
